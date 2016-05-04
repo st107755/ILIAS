@@ -3,7 +3,7 @@
 
 /**
 * login script for ilias
-*
+**
 * @author Sascha Hofmann <saschahofmann@gmx.de>
 * @author Peter Gabriel <pgabriel@databay.de>
 * @version $Id$
